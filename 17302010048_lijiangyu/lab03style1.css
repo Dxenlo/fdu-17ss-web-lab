@@ -1,0 +1,141 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    min-width: 600px;
+    background-color: #E8EAF6;
+}
+
+header .bigTitle,footer{
+    background-color:#1A237E;
+    padding: 1em;
+    color: white;
+}
+
+
+
+.liList{
+
+}
+
+header,footer,section{
+    margin-bottom: 0.5em;
+}
+
+figcaption{
+    padding: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color:#C5CAE9;
+    color: #7990A3;
+    font-style: italic;
+}
+img{vertical-align:top;}
+
+figure img{
+    width: 100%;
+    height: 100%;
+}
+
+a{
+    color: #00B0FF;
+}
+.content p a {
+    font-weight: bold;
+}
+
+
+li{
+    display:inline;
+}
+
+
+h1,h2,h3{
+    font-family:"Times New Roman";
+    font-weight: bold;
+    color:white;
+    }
+.content p{
+    font-family:san-serif, serif;
+    font-weight: bold;
+}
+
+time{
+    color: #F5A2C1;
+}
+
+h1{
+    font-size: 1.5em;
+}
+
+
+.content{
+    background-color: white;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+}
+.content section{
+    border-style: solid;
+    border-color: #C5CAE9;
+    border-width: 0.1em;
+}
+
+.littleTitle{
+    padding: 1em;
+    color: white;
+    background-color: #7986CB;
+}
+
+.content .clearfix p{
+    padding: 1em;
+    padding-top: 0.5em;
+}
+
+#Reviews div{
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+}
+
+#Reviews p{
+    margin-top: 0.5em;
+}
+.reviewInfo{
+    color: #C5CAE9;
+    font-style: italic;
+}
+
+.icon{
+    position: relative;
+    float: right;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+}
+.clearfix {
+    overflow: hidden;
+}
+
+footer p{
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
+
+header ul{
+    background-color:#7986CB;
+    padding-left: 0.7em;
+    list-style-type:none;
+    margin-bottom: 0.5em;
+    overflow: hidden;
+}
+header li{
+    float: left;
+}
+header li a{
+    display: block;
+    text-align: center;
+    padding:0.3em;
+}
+header li a:hover{
+    background-color:#F50057;
+    color: white;
+}
