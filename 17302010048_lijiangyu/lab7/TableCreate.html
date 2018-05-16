@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TableCreate</title>
+    <link href="TableCreate.css" rel="stylesheet"/>
+
+</head>
+<body>
+<div>
+    <form>
+        <div id="main_select" class="for_get" onchange="judge_f1_func()">
+            <select name="func1" id="func1">
+                <option value="f1-1" selected>SELECT ONE</option>
+                <option value="f1-2">CREATE TABLE</option>
+                <option value="f1-3">ADD ROW</option>
+                <option value="f1-4">DELETE ROW</option>
+                <option value="f1-5">DELETE TABLE</option>
+            </select>
+        </div>
+
+
+        <div id="optional_input_form" class="for_get">
+            <input type="text", placeholder="Table Name" id="tableName">
+            <input type="number", placeholder="Columns Numbers" id="numOfSheets" onchange="click_create_attr_block()">
+        </div>
+
+        <div id="attrTitle" class="for_get">
+        </div>
+
+        <div class="for_get">
+            <input type="button" value="commit" onclick="click_forCommit()" id="commit">
+        </div>
+
+
+        <div class="for_get">
+            <select name="func2" id="func2" onchange="func2_click()">
+                <option value="f2-0">SELECT(default: last created)</option>
+            </select>
+        </div>
+    </form>
+
+    <div id="warningPart">
+        <p>WARNING: You cannot undo this action!</p>
+    </div>
+    <table id="tableZone"></table>
+
+
+
+</div>
+</body>
+    <script src="lab07.js" type="text/JavaScript"></script>
+    <script src="lab07v2.js" type="text/JavaScript"></script>
+</html>
