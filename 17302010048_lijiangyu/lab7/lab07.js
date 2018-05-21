@@ -86,25 +86,29 @@ class Table {
     }
 
     getTable(){return this;}
+
+
     //删除某一行的内容
-
-
     delete_attr_inRow(list){
         let k=0;
+        let list_toBeDeleted=[];
         for (let row = 0; row < this.attr[0].attr_list.length; row++) {
             for (let col = 0; col < this.attr.length; col++) {
-                if (this.attr[col].attr_list[row].placeholder===list[col]||
-                    list[col]===""){
+                if (list[col]===""||this.attr[col].attr_list[row].placeholder===list[col]){
                     k++;
                 }
             }
             if (k === this.attr.length) {
-                this.delete_row_attr(row);
-
+                list_toBeDeleted.splice(0,0,row);
             }else {
             }
             k=0;
         }
+
+        for (let i = 0; i < list_toBeDeleted.length; i++) {
+            this.delete_row_attr(list_toBeDeleted[i]);
+        }
+
     }
     delete_row_attr(row){
         for (let i=0;i<this.attr.length;i++){

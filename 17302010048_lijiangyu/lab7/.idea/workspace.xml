@@ -10,84 +10,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.56380206">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="function.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/function.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="19">
-                  <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
-                  <folding>
-                    <element signature="n#!!block;n#content_type#0" />
-                    <element signature="n#!!block;n#click_create_attr_block#0" />
-                    <element signature="e#2686#3107#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TableCreate.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/TableCreate.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="455">
-                  <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="lab07.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lab07.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="887">
-                  <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
-                  <folding>
-                    <element signature="n#!!block;n#create_attrTitle#0;n#Table#0" />
-                    <element signature="n#!!block;n#create_attr_inRow#0;n#Table#0" />
-                    <element signature="n#!!block;n#create_attr_content#0;n#Attr#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="lab07v2.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lab07v2.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1317">
-                  <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-                  <folding>
-                    <element signature="e#101#143#0" />
-                    <element signature="n#!!block;n#judge_f1_func#0" />
-                    <element signature="n#!!block;n#click_create_attr_block#0" />
-                    <element signature="e#2758#3699#0" />
-                    <element signature="e#3708#4456#0" />
-                    <element signature="e#4465#4867#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/reset.css">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file leaf-file-name="TableCreate.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/TableCreate.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lab07v2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab07v2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="98" selection-start-line="98" selection-end-line="98" />
+              <folding>
+                <element signature="e#101#143#0" />
+                <element signature="n#!!block;n#judge_f1_func#0" />
+                <element signature="n#!!block;n#click_create_attr_block#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab07.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab07.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="99" column="13" lean-forward="true" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!block;n#create_attrTitle#0;n#Table#0" />
+                <element signature="n#!!block;n#create_attr_inRow#0;n#Table#0" />
+                <element signature="n#!!block;n#create_attr_content#0;n#Attr#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TableCreate.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TableCreate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,11 +64,11 @@
       <list>
         <option value="$PROJECT_DIR$/TableCreate.js" />
         <option value="$PROJECT_DIR$/cdcv.js" />
-        <option value="$PROJECT_DIR$/function.js" />
         <option value="$PROJECT_DIR$/TableCreate.html" />
-        <option value="$PROJECT_DIR$/lab07v2.js" />
         <option value="$PROJECT_DIR$/TableCreate.css" />
         <option value="$PROJECT_DIR$/lab07.js" />
+        <option value="$PROJECT_DIR$/function.js" />
+        <option value="$PROJECT_DIR$/lab07v2.js" />
       </list>
     </option>
   </component>
@@ -121,9 +82,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="916" />
-    <option name="y" value="58" />
-    <option name="width" value="1264" />
+    <option name="x" value="926" />
+    <option name="y" value="26" />
+    <option name="width" value="1265" />
     <option name="height" value="1025" />
   </component>
   <component name="ProjectView">
@@ -184,11 +145,14 @@
       <workItem from="1526365723820" duration="6207000" />
       <workItem from="1526382472587" duration="8686000" />
       <workItem from="1526468340034" duration="6750000" />
+      <workItem from="1526723220025" duration="901000" />
+      <workItem from="1526825802287" duration="1263000" />
+      <workItem from="1526875952353" duration="2709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83221000" />
+    <option name="totallyTimeSpent" value="88094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -226,12 +190,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab07v2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="e#101#143#0" />
+            <element signature="n#!!block;n#judge_f1_func#0" />
+            <element signature="n#!!block;n#click_create_attr_block#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TableCreate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/function.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1577">
           <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
           <folding>
-            <element signature="n#!!block;n#content_type#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
             <element signature="e#2686#3107#0" />
           </folding>
@@ -265,9 +247,6 @@
             <element signature="e#101#143#0" />
             <element signature="n#!!block;n#judge_f1_func#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
-            <element signature="e#2758#3699#0" />
-            <element signature="e#3708#4456#0" />
-            <element signature="e#4465#4867#0" />
           </folding>
         </state>
       </provider>
@@ -284,7 +263,6 @@
         <state relative-caret-position="1577">
           <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
           <folding>
-            <element signature="n#!!block;n#content_type#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
             <element signature="e#2686#3107#0" />
           </folding>
@@ -325,9 +303,6 @@
             <element signature="e#101#143#0" />
             <element signature="n#!!block;n#judge_f1_func#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
-            <element signature="e#2758#3699#0" />
-            <element signature="e#3708#4456#0" />
-            <element signature="e#4465#4867#0" />
           </folding>
         </state>
       </provider>
@@ -337,7 +312,6 @@
         <state relative-caret-position="1254">
           <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
           <folding>
-            <element signature="n#!!block;n#content_type#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
             <element signature="e#2686#3107#0" />
           </folding>
@@ -366,9 +340,6 @@
             <element signature="e#101#143#0" />
             <element signature="n#!!block;n#judge_f1_func#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
-            <element signature="e#2758#3699#0" />
-            <element signature="e#3708#4456#0" />
-            <element signature="e#4465#4867#0" />
           </folding>
         </state>
       </provider>
@@ -385,7 +356,6 @@
         <state relative-caret-position="1577">
           <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
           <folding>
-            <element signature="n#!!block;n#content_type#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
             <element signature="e#2686#3107#0" />
           </folding>
@@ -421,9 +391,6 @@
             <element signature="e#101#143#0" />
             <element signature="n#!!block;n#judge_f1_func#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
-            <element signature="e#2758#3699#0" />
-            <element signature="e#3708#4456#0" />
-            <element signature="e#4465#4867#0" />
           </folding>
         </state>
       </provider>
@@ -433,7 +400,6 @@
         <state relative-caret-position="1577">
           <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
           <folding>
-            <element signature="n#!!block;n#content_type#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
             <element signature="e#2686#3107#0" />
           </folding>
@@ -469,9 +435,6 @@
             <element signature="e#101#143#0" />
             <element signature="n#!!block;n#judge_f1_func#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
-            <element signature="e#2758#3699#0" />
-            <element signature="e#3708#4456#0" />
-            <element signature="e#4465#4867#0" />
           </folding>
         </state>
       </provider>
@@ -488,7 +451,6 @@
         <state relative-caret-position="665">
           <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding>
-            <element signature="n#!!block;n#content_type#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
             <element signature="e#2686#3107#0" />
           </folding>
@@ -531,9 +493,6 @@
             <element signature="e#101#143#0" />
             <element signature="n#!!block;n#judge_f1_func#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
-            <element signature="e#2758#3699#0" />
-            <element signature="e#3708#4456#0" />
-            <element signature="e#4465#4867#0" />
           </folding>
         </state>
       </provider>
@@ -616,37 +575,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cdcv.js" />
-    <entry file="file://$PROJECT_DIR$/reset.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TableCreate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab07v2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1317">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding>
-            <element signature="e#101#143#0" />
-            <element signature="n#!!block;n#judge_f1_func#0" />
-            <element signature="n#!!block;n#click_create_attr_block#0" />
-            <element signature="e#2758#3699#0" />
-            <element signature="e#3708#4456#0" />
-            <element signature="e#4465#4867#0" />
-          </folding>
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/function.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
+        <state relative-caret-position="1024">
+          <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
           <folding>
-            <element signature="n#!!block;n#content_type#0" />
             <element signature="n#!!block;n#click_create_attr_block#0" />
             <element signature="e#2686#3107#0" />
           </folding>
@@ -655,19 +595,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TableCreate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="431">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab07.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
+        <state relative-caret-position="171">
+          <caret line="99" column="13" lean-forward="true" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
           <folding>
             <element signature="n#!!block;n#create_attrTitle#0;n#Table#0" />
             <element signature="n#!!block;n#create_attr_inRow#0;n#Table#0" />
             <element signature="n#!!block;n#create_attr_content#0;n#Attr#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07v2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="e#101#143#0" />
+            <element signature="n#!!block;n#judge_f1_func#0" />
+            <element signature="n#!!block;n#click_create_attr_block#0" />
           </folding>
         </state>
       </provider>
