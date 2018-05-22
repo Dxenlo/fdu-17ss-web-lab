@@ -93,28 +93,31 @@ function click_forCommit() {
     switch (sel1) {
         case "f1-1":break;
         case "f1-2":
-            for (let i = 0; i < blank_list_forAttr.length; i++) {
-                list[i]=blank_list_forAttr[i].value;
-            }blank_list_forAttr.length=0;
+            let numOfSheets=blank_list_forAttr.length;
+            let k=0;
+            for(let i=0;i<numOfSheets;i++){
+                if (blank_list_forAttr[i].value!==""){
+                    k++;
+                }
+            }
 
+            if (k === blank_list_forAttr.length) {
 
-            let table_eq=new Table(document.getElementById("tableName").value);
-            table_eq.create_attrTitle(list);
+                for (let i = 0; i < blank_list_forAttr.length; i++) {
+                    list[i]=blank_list_forAttr[i].value;
+                }blank_list_forAttr.length=0;
 
-            let vr=document.createElement("option");
-            vr.appendChild(document.createTextNode(document.getElementById("tableName").value));
-            sel2.appendChild(vr);
-            vr.selected=true;
+                let table_eq=new Table(document.getElementById("tableName").value);
+                table_eq.create_attrTitle(list);
 
-            // let row1=document.createElement("tr");
-            // for (let i = 0; i < table_eq.attr.length; i++) {
-            //     let th0=document.createElement("th");
-            //     th0.appendChild(document.createTextNode(table_eq.attr[i].name));
-            //     row1.appendChild(th0);
-            // }
-            // table_zone.appendChild(row1);
-            showTable(table_eq.name);
+                let vr=document.createElement("option");
+                vr.appendChild(document.createTextNode(document.getElementById("tableName").value));
+                sel2.appendChild(vr);
+                vr.selected=true;
 
+                showTable(table_eq.name);
+
+            }
 
 
 
@@ -181,3 +184,4 @@ function func2_click() {
 
     showTable(string.value);
 }
+
