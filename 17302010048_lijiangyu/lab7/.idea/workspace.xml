@@ -44,8 +44,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="661" />
-    <option name="y" value="147" />
+    <option name="x" value="660" />
+    <option name="y" value="145" />
     <option name="width" value="1265" />
     <option name="height" value="1025" />
   </component>
@@ -71,7 +71,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab9/fdu-17ss-web-lab-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../pj2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -114,16 +114,18 @@
       <workItem from="1526956165972" duration="2349000" />
       <workItem from="1527055221397" duration="3611000" />
       <workItem from="1527077476916" duration="62000" />
+      <workItem from="1527604454157" duration="1972000" />
+      <workItem from="1527658988908" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94116000" />
+    <option name="totallyTimeSpent" value="96135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20052083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20052083" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32968536" />
@@ -156,37 +158,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample10_function10.php">
+    <entry file="file://$PROJECT_DIR$/TableCreate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="209">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object7.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object4.php">
+    <entry file="file://$PROJECT_DIR$/lab07.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="1881">
+          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object1.php">
+    <entry file="file://$PROJECT_DIR$/lab07v2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="2090">
+          <caret line="110" column="33" lean-forward="true" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3078">
-          <caret line="162" column="40" selection-start-line="162" selection-start-column="40" selection-end-line="162" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample10_function10.php" />
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object4.php" />
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object1.php" />
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object9.php" />
     <entry file="file://$PROJECT_DIR$/TableCreate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -346,13 +342,6 @@
     <entry file="file://$PROJECT_DIR$/TableCreate.js" />
     <entry file="file://$PROJECT_DIR$/cdcv.js" />
     <entry file="file://$PROJECT_DIR$/function.js" />
-    <entry file="file://$PROJECT_DIR$/lab07.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TableCreate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -360,53 +349,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample10_function4.php" />
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample10_function10.php" />
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object9.php" />
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object4.php" />
+    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object1.php" />
     <entry file="file://$PROJECT_DIR$/TableCreate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="31" column="83" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+        <state relative-caret-position="19">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab07v2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="95" column="53" selection-start-line="95" selection-start-column="53" selection-end-line="95" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample10_function4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114" />
-      </provider>
-    </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample10_function10.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object7.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="162" column="40" selection-start-line="162" selection-start-column="40" selection-end-line="162" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/xampp/htdocs/lecture05_PHP/lec05_sample11_object1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <caret line="110" column="33" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
         </state>
       </provider>
     </entry>
